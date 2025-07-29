@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Vyacheslav Belchuk
-- 👀 I’m interested in PHP, Symfony, Laravel, MySQL, Redis, JavaScript, Twig, HTML, CSS, Docker, Doctrine, Bootstrap, C++.
-- 🌱 I’m currently learning JavaScript, Bootstrap, Laravel
-- 💞️ I’m looking to collaborate on https://github.com/Vqcheslav - this my general account
-- 📫 How to reach me vyacheslav.belchuk@kpigroups.com
+- 👋 Hi, I’m Vyacheslav.
+- 👀 I’m interested in PHP, Symfony, Laravel, JavaScript, Vue, MySQL, Redis, RabbitMQ, ElasticSearch.
+- 🌱 I’m currently learning Vue, Flutter, Dart
